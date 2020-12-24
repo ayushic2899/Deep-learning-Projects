@@ -2,8 +2,9 @@
 """
 Created on Thu Dec 24 13:44:22 2020
 
-@author: LENOVO
+@author: LENOVO Ayushi
 """
+# Artificial Neural Network 
 
 import numpy as np
 import matplotlib.pyplot as plt
